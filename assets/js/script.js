@@ -79,5 +79,3 @@ function timeBlocks(){
 };
 
 timeBlocks();
-//runs function every minute so color code can move update as the hour changes 
-setInterval(timeBlocks, 60000);
